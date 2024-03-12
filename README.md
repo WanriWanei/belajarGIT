@@ -9,3 +9,12 @@ Daftar tugas / branch
 7. Tugas-finalProject
    
 # Daftar perintah GiT
+1. git clone https://github.com/WanriWanei/belajarGIT.git
+2. cd belajarGIT
+3. git checkout -b 
+4. touch
+5. git add
+6. git commit 
+7. git checkout main
+8. git merge
+9. git push
